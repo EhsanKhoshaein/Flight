@@ -1,0 +1,23 @@
+#Flight_Agency_object_orinented_Program_developed_by_Ehsan_Khoshaein_11_11_2021
+
+Sehr geehrte Damen und Herren, 
+
+Um das gewünschte Programm zu öffnen, laden Sie die Datei herunter und öffnen Sie die Datei "Flight.py" mit einer für die Programmiersprache Python geeigneten IDE.
+
+--------------
+
+als MANAGER:
+  USERNAME: manager
+  PASSWORD: qwer
+
+--------------
+
+als EMPLOYEE:
+  USERNAME: employee
+  PASSWORD: 1234
+
+--------------
+
+mit freundlichen Grüßen
+
+Ehsan Khoshaein
